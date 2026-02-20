@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "magnet",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-20T12:50:33.332678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Magnet",
+      "artist": "Bombay Bicycle Club",
+      "has_synced": true,
+      "path": "select/01_Magnet_Bombay_Bicycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Magnet and Steel",
+      "artist": "Walter Egan",
+      "has_synced": true,
+      "path": "select/02_Magnet_and_Steel_Walter_Egan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Return of the Son of Monster Magnet",
+      "artist": "The Mothers Of Invention",
+      "has_synced": false,
+      "path": "select/03_The_Return_of_the_Son_of_Monster_Magnet_The_Mothers_Of_Invention.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Return of the Son of Monster Magnet",
+      "artist": "Frank Zappa & The Mothers of Invention",
+      "has_synced": false,
+      "path": "select/04_The_Return_of_the_Son_of_Monster_Magnet_Frank_Zappa_&_The_Mothers_of_Invention.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Magnet",
+      "artist": "Orange 9mm",
+      "has_synced": false,
+      "path": "select/05_Magnet_Orange_9mm.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Magnet",
+      "artist": "Lindsay Lohan",
+      "has_synced": true,
+      "path": "select/06_Magnet_Lindsay_Lohan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Return of the Son of Monster Magnet",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/07_Return_of_the_Son_of_Monster_Magnet_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Creep Magnet",
+      "artist": "Beatsteaks",
+      "has_synced": true,
+      "path": "select/08_Creep_Magnet_Beatsteaks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Magnet",
+      "artist": "Bikini Kill",
+      "has_synced": false,
+      "path": "select/09_Magnet_Bikini_Kill.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Freak Magnet",
+      "artist": "Violent Femmes",
+      "has_synced": true,
+      "path": "select/10_Freak_Magnet_Violent_Femmes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "11 - Monster Magnet - Look To Your Orb For The Warning",
+      "artist": "Monster Magnet",
+      "has_synced": true,
+      "path": "select/11_11_-_Monster_Magnet_-_Look_To_Your_Orb_For_The_Warning_Monster_Magnet.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Magnet and Steel",
+      "artist": "Walter Egan",
+      "has_synced": false,
+      "path": "select/12_Magnet_and_Steel_Walter_Egan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Magnet",
+      "artist": "BGYO",
+      "has_synced": true,
+      "path": "select/13_Magnet_BGYO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stone Magnet",
+      "artist": "Electric Wizard",
+      "has_synced": false,
+      "path": "select/14_Stone_Magnet_Electric_Wizard.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Midnight Magnet",
+      "artist": "Teena Marie",
+      "has_synced": false,
+      "path": "select/15_Midnight_Magnet_Teena_Marie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "magnet",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_magnet_04_Limited_Sazabys.txt"
+    }
+  ]
+}
